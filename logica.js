@@ -15,3 +15,4 @@ slario_ajustado=ajuste+salario_inicial;
 
 alert("Su salario ajustado es: " +slario_ajustado)
 console.log("Su salario con ajuste es igual a "+ salario_ajustado)
+console.log("Hola")
